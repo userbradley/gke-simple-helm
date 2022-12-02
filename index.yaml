@@ -3,12 +3,12 @@ entries:
   secret:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-02T09:52:45.2631Z"
+    created: "2022-12-02T10:03:32.905166Z"
     description: Secret helm Chart
     digest: d51f0860d8f07695ac449da23de248639545ff6cde33e016933d5bae1823cfa6
     name: secret
     type: application
     urls:
-    - secret-0.1.0.tgz
+    - https://github.com/userbradley/gke-simple-helm/blob/master/secret-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-02T09:52:45.262661Z"
+generated: "2022-12-02T10:03:32.904267Z"
